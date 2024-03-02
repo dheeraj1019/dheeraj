@@ -1,0 +1,46 @@
+
+body{
+    background-color:blueviolet;
+    text-align: center;
+}
+.Mytic{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.box{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:center ;
+    gap: 2vmin;
+}
+
+.tac{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 4rex;
+    border: none;
+    font-size: 10vmin;
+    color:red
+}
+#res{
+    height: 70px;
+    width: 70px;
+    color:rgb(239, 239, 248);
+    background-color: rgb(49, 226, 43);
+    border-radius: 4rex;
+}
+.hide{
+    display: none;
+}
+#newres{
+    height: 70px;
+    width: 70px;
+    color:rgb(239, 239, 248);
+    background-color: rgb(49, 226, 43);
+    border-radius: 4rex;
+}
